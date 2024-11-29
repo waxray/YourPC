@@ -1,0 +1,6 @@
+.wrapperc {
+    border-top: 2px #B3B3B3 solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

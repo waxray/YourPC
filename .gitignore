@@ -1,0 +1,4 @@
+.python-env
+.venv
+/db
+/node_modules
